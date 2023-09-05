@@ -1,2 +1,2 @@
 # Web-Development
-This my exercises of Full Development course by Dr. Angela Yu. 
+This is my exercise in the Full Web Development course by Dr. Angela Yu. 
